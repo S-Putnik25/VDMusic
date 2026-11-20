@@ -3,7 +3,7 @@ Hot Pursuit — условия использования / Terms of use
 © Spacerift. Все права защищены. All rights reserved.
 
 Условия распространяются на музыку и звукозаписи, представленные в
-SRPause.wav, SRMain.wav, SRMedium.wav, SRLight.wav и SRAmbience.wav,
+SRHard.wav, SRMain.wav, SRMedium.wav, SRLight.wav и SRAmbience.wav,
 включая их фрагменты.
 
 Файлы опубликованы для прослушивания через авторизованный плеер на сайте
@@ -20,7 +20,7 @@ SRPause.wav, SRMain.wav, SRMedium.wav, SRLight.wav и SRAmbience.wav,
 законодательству, а также разрешений, предоставленных в рамках Условий
 использования GitHub для публичных репозиториев.
 
-These terms apply to the music and sound recordings in SRPause.wav,
+These terms apply to the music and sound recordings in SRHard.wav,
 SRMain.wav, SRMedium.wav, SRLight.wav, and SRAmbience.wav, including excerpts.
 
 The files are published for listening through the authorized player on
